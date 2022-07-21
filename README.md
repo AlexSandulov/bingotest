@@ -26,7 +26,7 @@ Description for the test task:
 		- The execution result must not contain unhandled exceptions
     
     
-    What has been done:
+What has been done:
      - Java, Maven, TestNG, Selenium, PageObject, PageFactory, testreport (Surefire), WebDriverManager (support for next browsers: Chrome, Firefox, Edge, Safari)
      
      Tests can be execute using maven (mvn test)

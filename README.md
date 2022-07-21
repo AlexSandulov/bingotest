@@ -29,6 +29,6 @@ Description for the test task:
 What has been done:
      - Java, Maven, TestNG, Selenium, PageObject, PageFactory, testreport (Surefire), WebDriverManager (support for next browsers: Chrome, Firefox, Edge, Safari)
      
-     Tests can be execute using maven (mvn test)
+     Tests can be executed using maven (mvn test)
      
-     NOTE: Test Case2 cannot be passed successful as the 7th step fails - link doesn't contain theme's name
+     NOTE: Test Case2 cannot be passed successful as the 7th step fails - link doesn't contain theme's name (more details after run in surefire-report)

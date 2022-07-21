@@ -27,7 +27,7 @@ Description for the test task:
     
     
 What has been done:
-     - Java, Maven, TestNG, Selenium, PageObject, PageFactory, testreport (Surefire), WebDriverManager (support for next browsers: Chrome, Firefox, Edge, Safari)
+     - Java, Maven, TestNG, Selenium, PageObject, PageFactory, testreport (Surefire), WebDriverManager (support for next browsers: Chrome, Firefox, Edge, Safari). Current implementation has only one cofigured (initialized) browser (Chrome)
      
      Tests can be executed using maven (mvn test)
      
